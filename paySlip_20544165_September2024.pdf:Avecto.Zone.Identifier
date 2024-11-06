@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://wscloudapp2.wipro.com/myWiproPayroll/index.html?reports
+HostUrl=https://wscloudapp2.wipro.com/myWiproPayroll/ViewPayslip?reportType=OFFSHORE&payYear=2024&payMonth=9&cycle=null&voucher=null
